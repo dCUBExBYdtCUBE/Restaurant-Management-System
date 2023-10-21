@@ -5,7 +5,7 @@
 
 typedef struct p_details{
     char name[100];
-    char phone[100];
+    char phone[11];
     char email[100];
     char time[30];
     int t_cost;
